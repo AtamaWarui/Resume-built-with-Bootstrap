@@ -1,5 +1,8 @@
 # Resume-Portfolio-Template
- + An example of a resume template in website form where I display my past robotic projects and academic background with demonstrations
+ + An example of a resume template in website form where I display my past robotic projects and academic background with demonstrations.
+ 
+ 
+ 
 | No. |   Preview    |                                            Description                                            |    
 | :-: | :----------: | :-----------------------------------------------------------------------------------------------: | 
 | 01  | Picture representation 1 | ![alt text](https://github.com/AtamaWarui/Resume-built-with-Bootstrap/blob/main/LandingPage-Template-3.png) | 
