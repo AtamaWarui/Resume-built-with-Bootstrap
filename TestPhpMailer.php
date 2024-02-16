@@ -12,7 +12,7 @@
                                                                                                                  $mail->SetForm('no-reply@gmail.com');
                                                                                                                  $mail->Subject = 'Hello World';
                                                                                                                  $mail->Body = 'A test email!';
-                                                                                                                 $mail->AddAddress('mounjanah@gmail.com');
+                                                                                                                 $mail->AddAddress('');
                                                                                                                  $mail->Send();
        
                                                                                                           ?>
